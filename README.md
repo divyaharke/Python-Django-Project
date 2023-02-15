@@ -1,4 +1,4 @@
-# Python-Django-Project
+# Python-Django Project
 Its ToDo list website.
 Where you can write your tasks.
 To run this project do following steps
